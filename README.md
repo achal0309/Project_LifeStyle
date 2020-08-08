@@ -1,4 +1,4 @@
-# Project_LifeStyle
+# Project_Bootstrap
 1. THE PROJECT IS BASED ON HTML5, CSS3, JavaScript, Bootstrap in it's implementation.
 2. This is a web page contains three sections:
     a. Header
