@@ -11,4 +11,4 @@ listing section.
 Footer: The footer contains text “Copyright @ Lifestyle Store. All Rights Reserved | Contact Us: +91
 90000 00000 ”.
 3. In order to visit webiste click on the following link:-
-  https://achal0309.github.io/Project_Bootstrap/index_1.html
+  https://achal0309.github.io/Project_LifeStyle/index_1.html
